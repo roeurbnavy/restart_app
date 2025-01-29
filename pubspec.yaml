@@ -28,6 +28,6 @@ flutter:
         pluginClass: RestartPlugin
       ios:
         pluginClass: RestartAppPlugin
-      web:
-        pluginClass: RestartWeb
-        fileName: restart_web.dart
+      # web:
+      #   pluginClass: RestartWeb
+      #   fileName: restart_web.dart
