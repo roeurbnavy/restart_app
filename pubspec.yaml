@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   web: ^1.0.0
-  plugin_platform_interface: ^2.1.8
+  plugin_platform_interface: ^2.1.2
   flutter_web_plugins:
     sdk: flutter
 
